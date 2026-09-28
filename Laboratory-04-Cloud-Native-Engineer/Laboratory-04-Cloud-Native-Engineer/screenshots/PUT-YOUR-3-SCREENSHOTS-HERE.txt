@@ -1,0 +1,8 @@
+Replace this file with your three actual screenshots from KillerCoda.
+
+Required filenames:
+1. docker-version.png
+2. nginx-running.png
+3. container-lifecycle.png
+
+Do not use fabricated screenshots. Run the Docker commands yourself and save the actual terminal evidence with these filenames.
